@@ -1,0 +1,29 @@
+body {background-color: #D6D6D6;
+font-family:HELVETICA;}
+h1 {
+	color:#C70039;
+	text-align: center;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #F94B05;
+  padding: 10px;
+
+}
+
+.navbar a {
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+	background-color: #FFC300;
+}
+
+.livroom img:hover {
+	background-color: #FFC300;
+}
